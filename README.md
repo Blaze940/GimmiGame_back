@@ -35,13 +35,6 @@ Be sure you have the `.env` at the root of your projet. You can get it from a co
 $ npm install
 ```
 
-## Usefull scripts
-
-```bash
-# generate new module,controller,service,class
-$ npm run nestPack
-```
-
 ## Running the app
 
 ```bash
