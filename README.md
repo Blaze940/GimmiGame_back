@@ -27,7 +27,7 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## PREREQUESITES
-Be sure you have the .env at the root of your projet. You can get it from a contributor or from the TP section of the FYC course you are comming from
+Be sure you have the `.env` at the root of your projet. You can get it from a contributor or from the TP section of the FYC course you are comming from
 
 ## Installation
 
